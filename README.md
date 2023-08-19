@@ -40,6 +40,7 @@ The conversion from Pine Script to Python was done as follows:
 - Adjust `volume_threshold` to control the sensitivity of the liquidity calculation to trading volume.
 
 - The code is intended for educational purposes and can be further optimized and customized based on specific trading strategies.
+- The txt contains the links to the videos 
 
 ## Acknowledgments
 
