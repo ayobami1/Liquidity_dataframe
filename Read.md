@@ -23,11 +23,13 @@ The conversion from Pine Script to Python was done as follows:
 - Python 3.x
 - CCXT library for fetching data from the Binance exchange
 - Retry library for handling network errors
+- loguru
+- pandas
 
 
 ## Usage
 
-1. Install required libraries using `pip install ccxt retry`.
+1. Install required libraries using `pip install ccxt retry loguru pandas`.
 
 2. Replace `symbol`, `timeframe`, and other parameters in the `main` function to match your requirements.
 
