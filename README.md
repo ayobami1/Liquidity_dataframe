@@ -1,6 +1,6 @@
 # Liquidity Calculation and Visualization
 
-This repository contains code for calculating and visualizing liquidity levels in trading data using both Python and Pine Script. The goal is to provide insights into buy and sell liquidity levels within the market data.
+This repository contains code for calculating and visualizing liquidity levels in trading data using converted pine Script into  Python Script. The goal is to provide insights into buy and sell liquidity levels within the market data.
 
 ## Python Code Explanation
 
