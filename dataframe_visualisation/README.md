@@ -58,8 +58,5 @@ In the main loop, liquidity levels are calculated using the `getVolumePrice` fun
 ## Usage
 
 To use the Python code, follow the instructions provided in the code comments. Run the code to calculate and visualize liquidity levels in the trading data.
-
-For the Pine Script strategy, you can use it within TradingView by creating a new strategy and copying the code into the Pine Script editor.
-
-Feel free to customize and experiment with the code to suit your trading strategy and goals.
+please note that the python Script here is only meant for Moving averages calculation
 
