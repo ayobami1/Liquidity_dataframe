@@ -46,7 +46,7 @@ In the main loop, liquidity levels are calculated using the `getVolumePrice` fun
 ## Improvement Suggestions for Python Code
 
 1. Incorporate Volume Information: Consider incorporating volume data into the calculation to provide insights into where actual trading activity is occurring.
-
+*ihave implement this function in the `liquidity_dataframe.py` please refer to that*
 2. Refine Liquidity Level Calculation: Experiment with different calculations that take into account more advanced indicators or techniques used by traders to identify liquidity.
 
 3. Timeframe-based Aggregation: Aggregate the data into different timeframes to capture liquidity changes over time and provide more granular insights.
