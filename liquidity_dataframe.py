@@ -75,7 +75,7 @@ async def main():
 
         buyside_liquidity_levels, sellside_liquidity_levels = calculate_liquidity_levels(ohlcv_df, marBuy, marSel, liqLen, liqMar, volume_threshold, use_volume)
 
-        # Rest of your code for processing and printing the liquidity levels
+        
 
         df = pd.DataFrame(columns=['Timestamp', 'Buyside_Level_Start', 'Buyside_Level_Break', 'Sellside_Level_Start',
                                    'Sellside_Level_Break'])
